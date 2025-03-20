@@ -207,11 +207,10 @@
 
 <html>
 	<head>
-		<body>
-			<body bgcolor="black"><center><br>
+		<body> bgcolor="black"><center><br>
 			<font face="Abel" size="6px" color="grey"><b></b>
 			<br><font size="3px">
-			<font color="white">[ </font><marquee scrollamount="5" width="630" height="20" behavior="alternate">Hari ini adalah hari spesial karena dunia diberkati dengan kehadiranmu. Aku bersyukur bisa menemani setiap langkahmu, melihat senyummu, dan merasakan hangatnya cintamu. Semoga segala impianmu tercapai, kebahagiaan selalu menyertaimu, dan cinta kita semakin kuat setiap harinya. Tetaplah menjadi pribadi yang luar biasa, karena bagiku, kamu adalah anugerah terindah. Love you sayangkuu</marquee><font color="white"> ]</font>
+			<font color="white"> </font><marquee scrollamount="5" width="630" height="20" behavior="alternate">Hari ini adalah hari spesial karena dunia diberkati dengan kehadiranmu. Aku bersyukur bisa menemani setiap langkahmu, melihat senyummu, dan merasakan hangatnya cintamu. Semoga segala impianmu tercapai, kebahagiaan selalu menyertaimu, dan cinta kita semakin kuat setiap harinya. Tetaplah menjadi pribadi yang luar biasa, karena bagiku, kamu adalah anugerah terindah. Love you sayangkuu</marquee><font color="white"> </font>
 			<br><br><font size="3px" face="Ubuntu Condensed">
 		</body>
 	</font>
